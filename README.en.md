@@ -4,7 +4,7 @@
 
 I started this traffic-light model in **CPN Tools** as a university exercise in timed Petri nets. I have shared the original model here, along with the parts that still need work.
 
-**Status: incomplete model; not a verified traffic controller.**
+**Status: incomplete model.**
 
 ## Inspect the source
 
@@ -36,4 +36,4 @@ This diagram summarizes one cycle's inscriptions. Output-token delays are not au
 4. Verify that conflicting greens are unreachable and test for deadlock.
 5. Save simulation traces and state-space statistics before claiming correctness.
 
-The file's XML structure has been checked, but CPN Tools simulation has **not been run** for this published version. I have kept the model unchanged from my original submission and documented the remaining checks above.
+The file's XML structure has been checked, but CPN Tools simulation has **not been run** for this published version. I have kept the model unchanged from my original submission and documented the remaining checks above,it was created only for educational reasons and is not ready to lunch.
